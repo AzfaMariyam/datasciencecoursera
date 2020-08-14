@@ -4,5 +4,3 @@ output:
   html_document: default
 ---
 ## This is a markdown file
-# this is
-### a markdown
